@@ -23,14 +23,7 @@ async function readData() {
             </div>
         </div>
         `
-       
-        // console.log(record);
-
     })
-    /*
-        record.picture.medium
-        record.name.first
-    */
 }
 
 readData();
